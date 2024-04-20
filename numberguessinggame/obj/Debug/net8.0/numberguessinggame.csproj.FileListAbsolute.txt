@@ -1,0 +1,14 @@
+/Users/annelie/Desktop/C# Prep/numberguessinggame/bin/Debug/net8.0/numberguessinggame
+/Users/annelie/Desktop/C# Prep/numberguessinggame/bin/Debug/net8.0/numberguessinggame.deps.json
+/Users/annelie/Desktop/C# Prep/numberguessinggame/bin/Debug/net8.0/numberguessinggame.runtimeconfig.json
+/Users/annelie/Desktop/C# Prep/numberguessinggame/bin/Debug/net8.0/numberguessinggame.dll
+/Users/annelie/Desktop/C# Prep/numberguessinggame/bin/Debug/net8.0/numberguessinggame.pdb
+/Users/annelie/Desktop/C# Prep/numberguessinggame/obj/Debug/net8.0/numberguessinggame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annelie/Desktop/C# Prep/numberguessinggame/obj/Debug/net8.0/numberguessinggame.AssemblyInfoInputs.cache
+/Users/annelie/Desktop/C# Prep/numberguessinggame/obj/Debug/net8.0/numberguessinggame.AssemblyInfo.cs
+/Users/annelie/Desktop/C# Prep/numberguessinggame/obj/Debug/net8.0/numberguessinggame.csproj.CoreCompileInputs.cache
+/Users/annelie/Desktop/C# Prep/numberguessinggame/obj/Debug/net8.0/numberguessinggame.dll
+/Users/annelie/Desktop/C# Prep/numberguessinggame/obj/Debug/net8.0/refint/numberguessinggame.dll
+/Users/annelie/Desktop/C# Prep/numberguessinggame/obj/Debug/net8.0/numberguessinggame.pdb
+/Users/annelie/Desktop/C# Prep/numberguessinggame/obj/Debug/net8.0/numberguessinggame.genruntimeconfig.cache
+/Users/annelie/Desktop/C# Prep/numberguessinggame/obj/Debug/net8.0/ref/numberguessinggame.dll
